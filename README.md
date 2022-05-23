@@ -1,2 +1,2 @@
-20182026	kim myoung chan
+kim myoung chan 20182026
 Kookmin Univ SW
